@@ -6,4 +6,11 @@
   display:flex;
   justify-content:space-between;
   
+} 
+img{ 
+  width: 200px;
+}
+
+background-color{
+  color:purple;
 }
